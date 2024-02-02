@@ -4,5 +4,5 @@ module.exports = {
   gitAuthor: 'Renovate Bot <bot@renovateapp.com>',
   onboarding: false,
   platform: 'github',
-  repositories: ['maduvef/snapcast-docker']
+  repositories: ['maduvef/snapcast-docker', 'maduvef/yt-dl-proxy']
 };
